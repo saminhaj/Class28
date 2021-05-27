@@ -1,0 +1,31 @@
+/* html{
+    font-size: 20px;
+} */
+.header{}
+.header-left{
+  
+}
+.header-left a{
+    text-decoration: none;
+}
+.header-left a h2{}
+.header-right{
+   
+}
+.primary-menu{}
+.primary-menu ul{}
+.primary-menu ul li{}
+.primary-menu ul li a{
+    text-decoration: none;
+    color: black;
+    padding-left: 1rem;
+    font-size: 1rem;
+
+}
+.primary-menu ul li a:hover{}
+.images{
+    height: 300px;
+}
+.images img{
+    height: 300px;
+}
